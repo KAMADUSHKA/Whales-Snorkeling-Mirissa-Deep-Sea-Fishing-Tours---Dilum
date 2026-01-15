@@ -1,1 +1,1 @@
-Mirissa Snorkeling Diving & Fishing Tours Created by WebMind Innovations
+Whales Snorkeling Mirissa with Deep Sea Fishing Tours Created by WebMind Innovations
