@@ -1,1 +1,1 @@
-Whales Snorkeling Mirissa with Deep Sea Fishing Tours Created by WebMind Innovations
+Blue Whales Snorkeling Mirissa with Tuna Fishing Created by WebMind Innovations
