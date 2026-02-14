@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host = 'smtp.hostinger.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'info@mirissasnorkelingdivingfishingtours.com';
+        $mail->Username = 'info@bluewhalessnorkelingmirissawithtunafishing.com';
         $mail->Password = 'mirissaSnorkeling@123';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;     
@@ -35,9 +35,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         ];
 
         // Email sender and recipients
-        $mail->setFrom('info@mirissasnorkelingdivingfishingtours.com', 'Blue Whales Snorkeling Mirissa with Tuna Fishing');
+        $mail->setFrom('info@bluewhalessnorkelingmirissawithtunafishing.com', 'Blue Whales Snorkeling Mirissa with Tuna Fishing');
         $mail->addAddress('visualvibegraphicslk@gmail.com');
-        $mail->addAddress('info@mirissasnorkelingdivingfishingtours.com');
+        $mail->addAddress('info@bluewhalessnorkelingmirissawithtunafishing.com');
         $mail->addReplyTo($email, $name);
 
         // Email subject
