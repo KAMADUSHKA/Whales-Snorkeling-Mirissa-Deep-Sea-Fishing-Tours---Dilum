@@ -1018,13 +1018,13 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: linear-gradient(hsla(46, 78%, 84%, 0.7) , hsla(118, 28%, 56%, 0.9)), url(../img/diving_tour/Turtle-in-diving-tours-mirissa.jpg) no-repeat center center;
+  background: linear-gradient(hsla(46, 78%, 84%, 0.7) , hsla(118, 28%, 56%, 0.9)), url(../img/diving_tour/Blue-Whales-Snorkeling-Mirissa-with-Tuna-Fishing-turtle-snorkeling.jpg) no-repeat center center;
   background-size: cover;
 }
 
 @media (max-width:768px) {
   .about {
-    background: linear-gradient(hsla(46, 79%, 84%, 0.7) , hsla(118, 28%, 56%, 0.9)), url(../img/diving_tour/turtle_snorkeling_mobile_02.jpg) no-repeat center center;
+    background: linear-gradient(hsla(46, 79%, 84%, 0.7) , hsla(118, 28%, 56%, 0.9)), url(../img/diving_tour/whale_snorkeling_mobile_02.jpg) no-repeat center center;
     background-size: cover;
   }
 }
